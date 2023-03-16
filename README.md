@@ -20,3 +20,8 @@ Welcome to the DevOPS assessment. Congratulations on getting shortlisted. Please
 - Hand-on experience on linux server.
 - Basic knowledge about AWS or Azure or similar cloud provider.
 
+# How to Submit?
+
+- Add screenshots of the configurations done in a google document.
+- Share the link to check the wordpress.
+
